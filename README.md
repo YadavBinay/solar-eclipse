@@ -8,7 +8,7 @@ Extract The file and Run **index.html** in your favourite web browser
 
 ### Prerequisites
 
-You need a PC or device compatible of Running **javaScript** With Any Web Browser**
+You need a PC or device compatible of Running **javaScript** With Any **Web Browser**
 
 ## Usage
 
